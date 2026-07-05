@@ -13,7 +13,7 @@ I work on the parts of ML most projects skip: evaluation, orchestration, and mon
 
 *Model Building In progress* Data ingestion is live, gathering AQI, weather data hourly and building dataset.
 
-**[GPT-2 Playground]([https://github.com/Tanmay-jam/GPT-2-Playground](https://taanmaay-gpt-2-playground.hf.space/))** GPT-2 implemented and served from scratch; live HuggingFace Spaces demo for interactive generation and decoding experiments.
+**[GPT-2 Playground](https://taanmaay-gpt-2-playground.hf.space/)** GPT-2 implemented and served from scratch; live HuggingFace Spaces demo for interactive generation and decoding experiments.
 
 ---
 
