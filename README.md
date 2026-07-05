@@ -1,11 +1,11 @@
-# Tanmay Pawar
+Hi, I'm Tanmay 👋
 
 **ML Engineer building and evaluating AI systems.**
 M.Tech AI @ IIT Patna · ML Engineer Intern @ Warner Bros. Discovery.
 
 I work on the parts of ML most projects skip: evaluation, orchestration, and monitoring. Interested in shipping systems that stay honest in production.
 
----
+
 
 ### 🔨 Currently building
 
@@ -15,7 +15,7 @@ I work on the parts of ML most projects skip: evaluation, orchestration, and mon
 
 **[GPT-2 Playground](https://taanmaay-gpt-2-playground.hf.space/)** GPT-2 implemented and served from scratch; live HuggingFace Spaces demo for interactive generation and decoding experiments.
 
----
+
 
 ### 🧭 Focus areas
 
@@ -23,7 +23,7 @@ I work on the parts of ML most projects skip: evaluation, orchestration, and mon
 - **Applied LLMs & RAG**  grounded retrieval, LLM-as-judge evaluation, QLoRA fine-tuning with real A/B baselines.
 - **Computer Vision**  Object detection, OCR, text classification with vision.
 
----
+
 
 ### 🧪 Selected repositories
 
@@ -33,7 +33,7 @@ I work on the parts of ML most projects skip: evaluation, orchestration, and mon
 | **[GPT-2 Playground](https://github.com/Tanmay-jam/GPT-2-Playground)** — from-scratch GPT-2 + live demo | PyTorch · HF Spaces |
 | **[Graph-RAG QnA System](https://github.com/Tanmay-jam/Graph-RAG-based-QnA-System)** — KG-augmented RAG over a vision classifier | LLaMA-3.1 · ChromaDB · MobileNetV3 |
 
----
+
 
 ### 📊 Activity
 
@@ -42,7 +42,7 @@ I work on the parts of ML most projects skip: evaluation, orchestration, and mon
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmay-jam&layout=compact&hide_border=true&langs_count=6" alt="langs" height="150"/>
 </a>
 
----
+
 
 ### 📫
 
